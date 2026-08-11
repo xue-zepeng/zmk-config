@@ -1,0 +1,6 @@
+if SHIELD_XZP_NRF52840
+
+config ZMK_KEYBOARD_NAME
+    default "xzp"
+
+endif # SHIELD_XZP_NRF52840
